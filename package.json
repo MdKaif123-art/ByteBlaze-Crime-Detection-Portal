@@ -1,9 +1,0 @@
-{
-  "name": "aj-hackathon-code",
-  "private": true,
-  "scripts": {
-    "dev:patrol-officer-web": "npm run dev --prefix patrol-officer-web",
-    "dev:foresight-patrol-app": "npm run dev --prefix foresight-patrol-app",
-    "dev:foresight-react-dashboard": "npm run dev --prefix foresight-react-dashboard"
-  }
-}
