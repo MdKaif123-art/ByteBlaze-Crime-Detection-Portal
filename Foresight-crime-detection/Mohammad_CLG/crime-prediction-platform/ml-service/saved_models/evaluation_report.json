@@ -1,0 +1,14 @@
+{
+  "level": "district_name",
+  "horizon_days": 7,
+  "areas_evaluated": 30,
+  "mae": 0.6571428571428571,
+  "rmse": 0.8890872794479687,
+  "mape": 52.59938837920489,
+  "baseline_last_mae": 0.8428571428571429,
+  "baseline_last_rmse": 1.2011898862615946,
+  "baseline_last_mape": 66.5137614678899,
+  "baseline_ma7_mae": 0.6938775510204082,
+  "baseline_ma7_rmse": 0.86268052433959,
+  "baseline_ma7_mape": 46.98558322411534
+}

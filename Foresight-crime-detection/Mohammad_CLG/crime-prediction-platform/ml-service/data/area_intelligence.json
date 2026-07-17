@@ -1,0 +1,1612 @@
+{
+  "Ariyalur": {
+    "district": "Ariyalur",
+    "total_crimes": 1188,
+    "center": {
+      "lat": 11.139978,
+      "lng": 79.085725
+    },
+    "top_crime_types": [
+      {
+        "type": "Crimes Against Property",
+        "count": 250,
+        "percentage": 21.0
+      },
+      {
+        "type": "Cyber Crimes",
+        "count": 192,
+        "percentage": 16.2
+      },
+      {
+        "type": "Crimes Against Body",
+        "count": 162,
+        "percentage": 13.6
+      },
+      {
+        "type": "Crimes Against Women",
+        "count": 160,
+        "percentage": 13.5
+      },
+      {
+        "type": "NDPS / Drug Offences",
+        "count": 116,
+        "percentage": 9.8
+      }
+    ],
+    "peak_crime_hour": 2,
+    "top_3_peak_hours": [
+      2,
+      10,
+      5
+    ],
+    "peak_day": "Monday",
+    "repeat_probability_pct": 5.4,
+    "peak_season": "Monsoon",
+    "avg_severity": 6.62,
+    "crime_timing_summary": "Highest crime rate at 2:00 hrs on Mondays during Monsoon"
+  },
+  "Chengalpattu": {
+    "district": "Chengalpattu",
+    "total_crimes": 1153,
+    "center": {
+      "lat": 12.693525,
+      "lng": 79.981976
+    },
+    "top_crime_types": [
+      {
+        "type": "Crimes Against Property",
+        "count": 243,
+        "percentage": 21.1
+      },
+      {
+        "type": "Crimes Against Body",
+        "count": 175,
+        "percentage": 15.2
+      },
+      {
+        "type": "Cyber Crimes",
+        "count": 171,
+        "percentage": 14.8
+      },
+      {
+        "type": "Crimes Against Women",
+        "count": 158,
+        "percentage": 13.7
+      },
+      {
+        "type": "NDPS / Drug Offences",
+        "count": 132,
+        "percentage": 11.4
+      }
+    ],
+    "peak_crime_hour": 3,
+    "top_3_peak_hours": [
+      3,
+      5,
+      2
+    ],
+    "peak_day": "Sunday",
+    "repeat_probability_pct": 5.3,
+    "peak_season": "Monsoon",
+    "avg_severity": 6.72,
+    "crime_timing_summary": "Highest crime rate at 3:00 hrs on Sundays during Monsoon"
+  },
+  "Chennai": {
+    "district": "Chennai",
+    "total_crimes": 173,
+    "center": {
+      "lat": 13.075138,
+      "lng": 80.254894
+    },
+    "top_crime_types": [
+      {
+        "type": "Crimes Against Property",
+        "count": 41,
+        "percentage": 23.7
+      },
+      {
+        "type": "Cyber Crimes",
+        "count": 30,
+        "percentage": 17.3
+      },
+      {
+        "type": "Crimes Against Body",
+        "count": 22,
+        "percentage": 12.7
+      },
+      {
+        "type": "Crimes Against Women",
+        "count": 20,
+        "percentage": 11.6
+      },
+      {
+        "type": "Motor Vehicle Offences",
+        "count": 15,
+        "percentage": 8.7
+      }
+    ],
+    "peak_crime_hour": 7,
+    "top_3_peak_hours": [
+      7,
+      0,
+      8
+    ],
+    "peak_day": "Monday",
+    "repeat_probability_pct": 0.8,
+    "peak_season": "Monsoon",
+    "avg_severity": 6.57,
+    "crime_timing_summary": "Highest crime rate at 7:00 hrs on Mondays during Monsoon"
+  },
+  "Coimbatore": {
+    "district": "Coimbatore",
+    "total_crimes": 571,
+    "center": {
+      "lat": 11.023846,
+      "lng": 76.960346
+    },
+    "top_crime_types": [
+      {
+        "type": "Crimes Against Property",
+        "count": 121,
+        "percentage": 21.2
+      },
+      {
+        "type": "Cyber Crimes",
+        "count": 85,
+        "percentage": 14.9
+      },
+      {
+        "type": "Crimes Against Body",
+        "count": 84,
+        "percentage": 14.7
+      },
+      {
+        "type": "Crimes Against Women",
+        "count": 83,
+        "percentage": 14.5
+      },
+      {
+        "type": "NDPS / Drug Offences",
+        "count": 60,
+        "percentage": 10.5
+      }
+    ],
+    "peak_crime_hour": 16,
+    "top_3_peak_hours": [
+      16,
+      18,
+      22
+    ],
+    "peak_day": "Saturday",
+    "repeat_probability_pct": 2.6,
+    "peak_season": "Monsoon",
+    "avg_severity": 6.73,
+    "crime_timing_summary": "Highest crime rate at 16:00 hrs on Saturdays during Monsoon"
+  },
+  "Cuddalore": {
+    "district": "Cuddalore",
+    "total_crimes": 976,
+    "center": {
+      "lat": 11.745217,
+      "lng": 79.764453
+    },
+    "top_crime_types": [
+      {
+        "type": "Crimes Against Property",
+        "count": 212,
+        "percentage": 21.7
+      },
+      {
+        "type": "Cyber Crimes",
+        "count": 158,
+        "percentage": 16.2
+      },
+      {
+        "type": "Crimes Against Body",
+        "count": 139,
+        "percentage": 14.2
+      },
+      {
+        "type": "Crimes Against Women",
+        "count": 126,
+        "percentage": 12.9
+      },
+      {
+        "type": "NDPS / Drug Offences",
+        "count": 100,
+        "percentage": 10.2
+      }
+    ],
+    "peak_crime_hour": 6,
+    "top_3_peak_hours": [
+      6,
+      9,
+      18
+    ],
+    "peak_day": "Wednesday",
+    "repeat_probability_pct": 4.5,
+    "peak_season": "Monsoon",
+    "avg_severity": 6.59,
+    "crime_timing_summary": "Highest crime rate at 6:00 hrs on Wednesdays during Monsoon"
+  },
+  "Dharmapuri": {
+    "district": "Dharmapuri",
+    "total_crimes": 1085,
+    "center": {
+      "lat": 12.118475,
+      "lng": 78.157009
+    },
+    "top_crime_types": [
+      {
+        "type": "Crimes Against Property",
+        "count": 221,
+        "percentage": 20.4
+      },
+      {
+        "type": "Cyber Crimes",
+        "count": 210,
+        "percentage": 19.4
+      },
+      {
+        "type": "Crimes Against Women",
+        "count": 141,
+        "percentage": 13.0
+      },
+      {
+        "type": "Crimes Against Body",
+        "count": 129,
+        "percentage": 11.9
+      },
+      {
+        "type": "NDPS / Drug Offences",
+        "count": 108,
+        "percentage": 10.0
+      }
+    ],
+    "peak_crime_hour": 17,
+    "top_3_peak_hours": [
+      17,
+      0,
+      9
+    ],
+    "peak_day": "Thursday",
+    "repeat_probability_pct": 5.0,
+    "peak_season": "Monsoon",
+    "avg_severity": 6.56,
+    "crime_timing_summary": "Highest crime rate at 17:00 hrs on Thursdays during Monsoon"
+  },
+  "Dindigul": {
+    "district": "Dindigul",
+    "total_crimes": 908,
+    "center": {
+      "lat": 10.360004,
+      "lng": 77.963961
+    },
+    "top_crime_types": [
+      {
+        "type": "Crimes Against Property",
+        "count": 206,
+        "percentage": 22.7
+      },
+      {
+        "type": "Cyber Crimes",
+        "count": 153,
+        "percentage": 16.9
+      },
+      {
+        "type": "Crimes Against Body",
+        "count": 124,
+        "percentage": 13.7
+      },
+      {
+        "type": "Crimes Against Women",
+        "count": 120,
+        "percentage": 13.2
+      },
+      {
+        "type": "NDPS / Drug Offences",
+        "count": 77,
+        "percentage": 8.5
+      }
+    ],
+    "peak_crime_hour": 14,
+    "top_3_peak_hours": [
+      14,
+      9,
+      12
+    ],
+    "peak_day": "Thursday",
+    "repeat_probability_pct": 4.2,
+    "peak_season": "Monsoon",
+    "avg_severity": 6.62,
+    "crime_timing_summary": "Highest crime rate at 14:00 hrs on Thursdays during Monsoon"
+  },
+  "Erode": {
+    "district": "Erode",
+    "total_crimes": 921,
+    "center": {
+      "lat": 11.349228,
+      "lng": 77.718464
+    },
+    "top_crime_types": [
+      {
+        "type": "Crimes Against Property",
+        "count": 196,
+        "percentage": 21.3
+      },
+      {
+        "type": "Cyber Crimes",
+        "count": 132,
+        "percentage": 14.3
+      },
+      {
+        "type": "Crimes Against Body",
+        "count": 132,
+        "percentage": 14.3
+      },
+      {
+        "type": "Crimes Against Women",
+        "count": 130,
+        "percentage": 14.1
+      },
+      {
+        "type": "NDPS / Drug Offences",
+        "count": 97,
+        "percentage": 10.5
+      }
+    ],
+    "peak_crime_hour": 8,
+    "top_3_peak_hours": [
+      8,
+      19,
+      21
+    ],
+    "peak_day": "Thursday",
+    "repeat_probability_pct": 4.2,
+    "peak_season": "Monsoon",
+    "avg_severity": 6.63,
+    "crime_timing_summary": "Highest crime rate at 8:00 hrs on Thursdays during Monsoon"
+  },
+  "Kallakurichi": {
+    "district": "Kallakurichi",
+    "total_crimes": 1176,
+    "center": {
+      "lat": 11.734667,
+      "lng": 78.961407
+    },
+    "top_crime_types": [
+      {
+        "type": "Crimes Against Property",
+        "count": 251,
+        "percentage": 21.3
+      },
+      {
+        "type": "Cyber Crimes",
+        "count": 199,
+        "percentage": 16.9
+      },
+      {
+        "type": "Crimes Against Body",
+        "count": 173,
+        "percentage": 14.7
+      },
+      {
+        "type": "Crimes Against Women",
+        "count": 145,
+        "percentage": 12.3
+      },
+      {
+        "type": "NDPS / Drug Offences",
+        "count": 125,
+        "percentage": 10.6
+      }
+    ],
+    "peak_crime_hour": 0,
+    "top_3_peak_hours": [
+      0,
+      14,
+      8
+    ],
+    "peak_day": "Sunday",
+    "repeat_probability_pct": 5.4,
+    "peak_season": "Monsoon",
+    "avg_severity": 6.64,
+    "crime_timing_summary": "Highest crime rate at 0:00 hrs on Sundays during Monsoon"
+  },
+  "Kancheepuram": {
+    "district": "Kancheepuram",
+    "total_crimes": 1169,
+    "center": {
+      "lat": 12.842443,
+      "lng": 79.699783
+    },
+    "top_crime_types": [
+      {
+        "type": "Crimes Against Property",
+        "count": 284,
+        "percentage": 24.3
+      },
+      {
+        "type": "Cyber Crimes",
+        "count": 173,
+        "percentage": 14.8
+      },
+      {
+        "type": "Crimes Against Body",
+        "count": 160,
+        "percentage": 13.7
+      },
+      {
+        "type": "Crimes Against Women",
+        "count": 141,
+        "percentage": 12.1
+      },
+      {
+        "type": "NDPS / Drug Offences",
+        "count": 110,
+        "percentage": 9.4
+      }
+    ],
+    "peak_crime_hour": 21,
+    "top_3_peak_hours": [
+      21,
+      10,
+      20
+    ],
+    "peak_day": "Saturday",
+    "repeat_probability_pct": 5.4,
+    "peak_season": "Monsoon",
+    "avg_severity": 6.6,
+    "crime_timing_summary": "Highest crime rate at 21:00 hrs on Saturdays during Monsoon"
+  },
+  "Karur": {
+    "district": "Karur",
+    "total_crimes": 1072,
+    "center": {
+      "lat": 10.957249,
+      "lng": 78.071717
+    },
+    "top_crime_types": [
+      {
+        "type": "Crimes Against Property",
+        "count": 222,
+        "percentage": 20.7
+      },
+      {
+        "type": "Cyber Crimes",
+        "count": 185,
+        "percentage": 17.3
+      },
+      {
+        "type": "Crimes Against Body",
+        "count": 153,
+        "percentage": 14.3
+      },
+      {
+        "type": "Crimes Against Women",
+        "count": 135,
+        "percentage": 12.6
+      },
+      {
+        "type": "NDPS / Drug Offences",
+        "count": 101,
+        "percentage": 9.4
+      }
+    ],
+    "peak_crime_hour": 5,
+    "top_3_peak_hours": [
+      5,
+      8,
+      7
+    ],
+    "peak_day": "Wednesday",
+    "repeat_probability_pct": 4.9,
+    "peak_season": "Monsoon",
+    "avg_severity": 6.62,
+    "crime_timing_summary": "Highest crime rate at 5:00 hrs on Wednesdays during Monsoon"
+  },
+  "Krishnagiri": {
+    "district": "Krishnagiri",
+    "total_crimes": 990,
+    "center": {
+      "lat": 12.519467,
+      "lng": 78.215639
+    },
+    "top_crime_types": [
+      {
+        "type": "Crimes Against Property",
+        "count": 213,
+        "percentage": 21.5
+      },
+      {
+        "type": "Cyber Crimes",
+        "count": 204,
+        "percentage": 20.6
+      },
+      {
+        "type": "Crimes Against Body",
+        "count": 135,
+        "percentage": 13.6
+      },
+      {
+        "type": "Crimes Against Women",
+        "count": 114,
+        "percentage": 11.5
+      },
+      {
+        "type": "NDPS / Drug Offences",
+        "count": 91,
+        "percentage": 9.2
+      }
+    ],
+    "peak_crime_hour": 15,
+    "top_3_peak_hours": [
+      15,
+      8,
+      6
+    ],
+    "peak_day": "Sunday",
+    "repeat_probability_pct": 4.5,
+    "peak_season": "Monsoon",
+    "avg_severity": 6.55,
+    "crime_timing_summary": "Highest crime rate at 15:00 hrs on Sundays during Monsoon"
+  },
+  "Madurai": {
+    "district": "Madurai",
+    "total_crimes": 641,
+    "center": {
+      "lat": 9.921389,
+      "lng": 78.115155
+    },
+    "top_crime_types": [
+      {
+        "type": "Crimes Against Property",
+        "count": 132,
+        "percentage": 20.6
+      },
+      {
+        "type": "Cyber Crimes",
+        "count": 109,
+        "percentage": 17.0
+      },
+      {
+        "type": "Crimes Against Body",
+        "count": 104,
+        "percentage": 16.2
+      },
+      {
+        "type": "Crimes Against Women",
+        "count": 86,
+        "percentage": 13.4
+      },
+      {
+        "type": "NDPS / Drug Offences",
+        "count": 67,
+        "percentage": 10.5
+      }
+    ],
+    "peak_crime_hour": 12,
+    "top_3_peak_hours": [
+      12,
+      1,
+      10
+    ],
+    "peak_day": "Monday",
+    "repeat_probability_pct": 2.9,
+    "peak_season": "Monsoon",
+    "avg_severity": 6.73,
+    "crime_timing_summary": "Highest crime rate at 12:00 hrs on Mondays during Monsoon"
+  },
+  "Mayiladuthurai": {
+    "district": "Mayiladuthurai",
+    "total_crimes": 1162,
+    "center": {
+      "lat": 11.110015,
+      "lng": 79.649948
+    },
+    "top_crime_types": [
+      {
+        "type": "Crimes Against Property",
+        "count": 250,
+        "percentage": 21.5
+      },
+      {
+        "type": "Cyber Crimes",
+        "count": 178,
+        "percentage": 15.3
+      },
+      {
+        "type": "Crimes Against Body",
+        "count": 168,
+        "percentage": 14.5
+      },
+      {
+        "type": "Crimes Against Women",
+        "count": 154,
+        "percentage": 13.3
+      },
+      {
+        "type": "NDPS / Drug Offences",
+        "count": 125,
+        "percentage": 10.8
+      }
+    ],
+    "peak_crime_hour": 7,
+    "top_3_peak_hours": [
+      7,
+      14,
+      13
+    ],
+    "peak_day": "Friday",
+    "repeat_probability_pct": 5.3,
+    "peak_season": "Monsoon",
+    "avg_severity": 6.68,
+    "crime_timing_summary": "Highest crime rate at 7:00 hrs on Fridays during Monsoon"
+  },
+  "Nagapattinam": {
+    "district": "Nagapattinam",
+    "total_crimes": 1190,
+    "center": {
+      "lat": 10.765821,
+      "lng": 79.839846
+    },
+    "top_crime_types": [
+      {
+        "type": "Crimes Against Property",
+        "count": 254,
+        "percentage": 21.3
+      },
+      {
+        "type": "Cyber Crimes",
+        "count": 198,
+        "percentage": 16.6
+      },
+      {
+        "type": "Crimes Against Body",
+        "count": 185,
+        "percentage": 15.5
+      },
+      {
+        "type": "Crimes Against Women",
+        "count": 146,
+        "percentage": 12.3
+      },
+      {
+        "type": "NDPS / Drug Offences",
+        "count": 128,
+        "percentage": 10.8
+      }
+    ],
+    "peak_crime_hour": 1,
+    "top_3_peak_hours": [
+      1,
+      2,
+      7
+    ],
+    "peak_day": "Friday",
+    "repeat_probability_pct": 5.5,
+    "peak_season": "Monsoon",
+    "avg_severity": 6.65,
+    "crime_timing_summary": "Highest crime rate at 1:00 hrs on Fridays during Monsoon"
+  },
+  "Namakkal": {
+    "district": "Namakkal",
+    "total_crimes": 1109,
+    "center": {
+      "lat": 11.218827,
+      "lng": 78.170899
+    },
+    "top_crime_types": [
+      {
+        "type": "Crimes Against Property",
+        "count": 244,
+        "percentage": 22.0
+      },
+      {
+        "type": "Cyber Crimes",
+        "count": 166,
+        "percentage": 15.0
+      },
+      {
+        "type": "Crimes Against Body",
+        "count": 159,
+        "percentage": 14.3
+      },
+      {
+        "type": "Crimes Against Women",
+        "count": 146,
+        "percentage": 13.2
+      },
+      {
+        "type": "NDPS / Drug Offences",
+        "count": 114,
+        "percentage": 10.3
+      }
+    ],
+    "peak_crime_hour": 12,
+    "top_3_peak_hours": [
+      12,
+      3,
+      11
+    ],
+    "peak_day": "Saturday",
+    "repeat_probability_pct": 5.1,
+    "peak_season": "Monsoon",
+    "avg_severity": 6.65,
+    "crime_timing_summary": "Highest crime rate at 12:00 hrs on Saturdays during Monsoon"
+  },
+  "Perambalur": {
+    "district": "Perambalur",
+    "total_crimes": 1182,
+    "center": {
+      "lat": 11.232658,
+      "lng": 78.885131
+    },
+    "top_crime_types": [
+      {
+        "type": "Crimes Against Property",
+        "count": 275,
+        "percentage": 23.3
+      },
+      {
+        "type": "Cyber Crimes",
+        "count": 172,
+        "percentage": 14.6
+      },
+      {
+        "type": "Crimes Against Body",
+        "count": 167,
+        "percentage": 14.1
+      },
+      {
+        "type": "NDPS / Drug Offences",
+        "count": 134,
+        "percentage": 11.3
+      },
+      {
+        "type": "Crimes Against Women",
+        "count": 126,
+        "percentage": 10.7
+      }
+    ],
+    "peak_crime_hour": 23,
+    "top_3_peak_hours": [
+      23,
+      4,
+      14
+    ],
+    "peak_day": "Wednesday",
+    "repeat_probability_pct": 5.4,
+    "peak_season": "Monsoon",
+    "avg_severity": 6.58,
+    "crime_timing_summary": "Highest crime rate at 23:00 hrs on Wednesdays during Monsoon"
+  },
+  "Pudukkottai": {
+    "district": "Pudukkottai",
+    "total_crimes": 1131,
+    "center": {
+      "lat": 10.371548,
+      "lng": 78.814473
+    },
+    "top_crime_types": [
+      {
+        "type": "Crimes Against Property",
+        "count": 270,
+        "percentage": 23.9
+      },
+      {
+        "type": "Crimes Against Body",
+        "count": 172,
+        "percentage": 15.2
+      },
+      {
+        "type": "Cyber Crimes",
+        "count": 168,
+        "percentage": 14.9
+      },
+      {
+        "type": "Crimes Against Women",
+        "count": 151,
+        "percentage": 13.4
+      },
+      {
+        "type": "NDPS / Drug Offences",
+        "count": 119,
+        "percentage": 10.5
+      }
+    ],
+    "peak_crime_hour": 18,
+    "top_3_peak_hours": [
+      18,
+      14,
+      21
+    ],
+    "peak_day": "Friday",
+    "repeat_probability_pct": 5.2,
+    "peak_season": "Monsoon",
+    "avg_severity": 6.75,
+    "crime_timing_summary": "Highest crime rate at 18:00 hrs on Fridays during Monsoon"
+  },
+  "Ramanathapuram": {
+    "district": "Ramanathapuram",
+    "total_crimes": 1099,
+    "center": {
+      "lat": 9.363253,
+      "lng": 78.84471
+    },
+    "top_crime_types": [
+      {
+        "type": "Crimes Against Property",
+        "count": 218,
+        "percentage": 19.8
+      },
+      {
+        "type": "Crimes Against Women",
+        "count": 157,
+        "percentage": 14.3
+      },
+      {
+        "type": "Crimes Against Body",
+        "count": 157,
+        "percentage": 14.3
+      },
+      {
+        "type": "Cyber Crimes",
+        "count": 155,
+        "percentage": 14.1
+      },
+      {
+        "type": "NDPS / Drug Offences",
+        "count": 117,
+        "percentage": 10.6
+      }
+    ],
+    "peak_crime_hour": 7,
+    "top_3_peak_hours": [
+      7,
+      3,
+      10
+    ],
+    "peak_day": "Wednesday",
+    "repeat_probability_pct": 5.0,
+    "peak_season": "Monsoon",
+    "avg_severity": 6.69,
+    "crime_timing_summary": "Highest crime rate at 7:00 hrs on Wednesdays during Monsoon"
+  },
+  "Ranipet": {
+    "district": "Ranipet",
+    "total_crimes": 1126,
+    "center": {
+      "lat": 12.941832,
+      "lng": 79.331467
+    },
+    "top_crime_types": [
+      {
+        "type": "Crimes Against Property",
+        "count": 255,
+        "percentage": 22.6
+      },
+      {
+        "type": "Cyber Crimes",
+        "count": 189,
+        "percentage": 16.8
+      },
+      {
+        "type": "Crimes Against Body",
+        "count": 159,
+        "percentage": 14.1
+      },
+      {
+        "type": "Crimes Against Women",
+        "count": 149,
+        "percentage": 13.2
+      },
+      {
+        "type": "NDPS / Drug Offences",
+        "count": 127,
+        "percentage": 11.3
+      }
+    ],
+    "peak_crime_hour": 2,
+    "top_3_peak_hours": [
+      2,
+      0,
+      16
+    ],
+    "peak_day": "Friday",
+    "repeat_probability_pct": 5.2,
+    "peak_season": "Monsoon",
+    "avg_severity": 6.68,
+    "crime_timing_summary": "Highest crime rate at 2:00 hrs on Fridays during Monsoon"
+  },
+  "Salem": {
+    "district": "Salem",
+    "total_crimes": 773,
+    "center": {
+      "lat": 11.662287,
+      "lng": 78.149048
+    },
+    "top_crime_types": [
+      {
+        "type": "Crimes Against Property",
+        "count": 168,
+        "percentage": 21.7
+      },
+      {
+        "type": "Crimes Against Body",
+        "count": 122,
+        "percentage": 15.8
+      },
+      {
+        "type": "Cyber Crimes",
+        "count": 117,
+        "percentage": 15.1
+      },
+      {
+        "type": "Crimes Against Women",
+        "count": 99,
+        "percentage": 12.8
+      },
+      {
+        "type": "NDPS / Drug Offences",
+        "count": 74,
+        "percentage": 9.6
+      }
+    ],
+    "peak_crime_hour": 2,
+    "top_3_peak_hours": [
+      2,
+      3,
+      17
+    ],
+    "peak_day": "Monday",
+    "repeat_probability_pct": 3.5,
+    "peak_season": "Monsoon",
+    "avg_severity": 6.72,
+    "crime_timing_summary": "Highest crime rate at 2:00 hrs on Mondays during Monsoon"
+  },
+  "Sivaganga": {
+    "district": "Sivaganga",
+    "total_crimes": 1150,
+    "center": {
+      "lat": 9.841369,
+      "lng": 78.477289
+    },
+    "top_crime_types": [
+      {
+        "type": "Crimes Against Property",
+        "count": 265,
+        "percentage": 23.0
+      },
+      {
+        "type": "Cyber Crimes",
+        "count": 201,
+        "percentage": 17.5
+      },
+      {
+        "type": "Crimes Against Women",
+        "count": 149,
+        "percentage": 13.0
+      },
+      {
+        "type": "Crimes Against Body",
+        "count": 137,
+        "percentage": 11.9
+      },
+      {
+        "type": "NDPS / Drug Offences",
+        "count": 99,
+        "percentage": 8.6
+      }
+    ],
+    "peak_crime_hour": 12,
+    "top_3_peak_hours": [
+      12,
+      5,
+      22
+    ],
+    "peak_day": "Wednesday",
+    "repeat_probability_pct": 5.3,
+    "peak_season": "Monsoon",
+    "avg_severity": 6.59,
+    "crime_timing_summary": "Highest crime rate at 12:00 hrs on Wednesdays during Monsoon"
+  },
+  "Tenkasi": {
+    "district": "Tenkasi",
+    "total_crimes": 1154,
+    "center": {
+      "lat": 8.964022,
+      "lng": 77.316966
+    },
+    "top_crime_types": [
+      {
+        "type": "Crimes Against Property",
+        "count": 252,
+        "percentage": 21.8
+      },
+      {
+        "type": "Cyber Crimes",
+        "count": 164,
+        "percentage": 14.2
+      },
+      {
+        "type": "Crimes Against Body",
+        "count": 161,
+        "percentage": 14.0
+      },
+      {
+        "type": "Crimes Against Women",
+        "count": 151,
+        "percentage": 13.1
+      },
+      {
+        "type": "NDPS / Drug Offences",
+        "count": 109,
+        "percentage": 9.4
+      }
+    ],
+    "peak_crime_hour": 0,
+    "top_3_peak_hours": [
+      0,
+      23,
+      6
+    ],
+    "peak_day": "Monday",
+    "repeat_probability_pct": 5.3,
+    "peak_season": "Monsoon",
+    "avg_severity": 6.64,
+    "crime_timing_summary": "Highest crime rate at 0:00 hrs on Mondays during Monsoon"
+  },
+  "Thanjavur": {
+    "district": "Thanjavur",
+    "total_crimes": 992,
+    "center": {
+      "lat": 10.790368,
+      "lng": 79.138976
+    },
+    "top_crime_types": [
+      {
+        "type": "Crimes Against Property",
+        "count": 224,
+        "percentage": 22.6
+      },
+      {
+        "type": "Cyber Crimes",
+        "count": 157,
+        "percentage": 15.8
+      },
+      {
+        "type": "Crimes Against Body",
+        "count": 147,
+        "percentage": 14.8
+      },
+      {
+        "type": "Crimes Against Women",
+        "count": 123,
+        "percentage": 12.4
+      },
+      {
+        "type": "NDPS / Drug Offences",
+        "count": 97,
+        "percentage": 9.8
+      }
+    ],
+    "peak_crime_hour": 20,
+    "top_3_peak_hours": [
+      20,
+      15,
+      19
+    ],
+    "peak_day": "Thursday",
+    "repeat_probability_pct": 4.6,
+    "peak_season": "Monsoon",
+    "avg_severity": 6.67,
+    "crime_timing_summary": "Highest crime rate at 20:00 hrs on Thursdays during Monsoon"
+  },
+  "The Nilgiris": {
+    "district": "The Nilgiris",
+    "total_crimes": 988,
+    "center": {
+      "lat": 11.410394,
+      "lng": 76.694655
+    },
+    "top_crime_types": [
+      {
+        "type": "Crimes Against Property",
+        "count": 201,
+        "percentage": 20.3
+      },
+      {
+        "type": "Cyber Crimes",
+        "count": 168,
+        "percentage": 17.0
+      },
+      {
+        "type": "Crimes Against Body",
+        "count": 154,
+        "percentage": 15.6
+      },
+      {
+        "type": "Crimes Against Women",
+        "count": 133,
+        "percentage": 13.5
+      },
+      {
+        "type": "NDPS / Drug Offences",
+        "count": 94,
+        "percentage": 9.5
+      }
+    ],
+    "peak_crime_hour": 3,
+    "top_3_peak_hours": [
+      3,
+      18,
+      4
+    ],
+    "peak_day": "Thursday",
+    "repeat_probability_pct": 4.5,
+    "peak_season": "Monsoon",
+    "avg_severity": 6.74,
+    "crime_timing_summary": "Highest crime rate at 3:00 hrs on Thursdays during Monsoon"
+  },
+  "Thoothukkudi": {
+    "district": "Thoothukkudi",
+    "total_crimes": 945,
+    "center": {
+      "lat": 8.768706,
+      "lng": 78.129901
+    },
+    "top_crime_types": [
+      {
+        "type": "Crimes Against Property",
+        "count": 178,
+        "percentage": 18.8
+      },
+      {
+        "type": "Cyber Crimes",
+        "count": 171,
+        "percentage": 18.1
+      },
+      {
+        "type": "Crimes Against Body",
+        "count": 140,
+        "percentage": 14.8
+      },
+      {
+        "type": "Crimes Against Women",
+        "count": 120,
+        "percentage": 12.7
+      },
+      {
+        "type": "NDPS / Drug Offences",
+        "count": 102,
+        "percentage": 10.8
+      }
+    ],
+    "peak_crime_hour": 2,
+    "top_3_peak_hours": [
+      2,
+      0,
+      4
+    ],
+    "peak_day": "Wednesday",
+    "repeat_probability_pct": 4.3,
+    "peak_season": "Monsoon",
+    "avg_severity": 6.66,
+    "crime_timing_summary": "Highest crime rate at 2:00 hrs on Wednesdays during Monsoon"
+  },
+  "Tiruchirappalli": {
+    "district": "Tiruchirappalli",
+    "total_crimes": 112,
+    "center": {
+      "lat": 10.792031,
+      "lng": 78.702935
+    },
+    "top_crime_types": [
+      {
+        "type": "Cyber Crimes",
+        "count": 23,
+        "percentage": 20.5
+      },
+      {
+        "type": "Crimes Against Body",
+        "count": 21,
+        "percentage": 18.8
+      },
+      {
+        "type": "Crimes Against Property",
+        "count": 17,
+        "percentage": 15.2
+      },
+      {
+        "type": "Crimes Against Women",
+        "count": 15,
+        "percentage": 13.4
+      },
+      {
+        "type": "Motor Vehicle Offences",
+        "count": 10,
+        "percentage": 8.9
+      }
+    ],
+    "peak_crime_hour": 20,
+    "top_3_peak_hours": [
+      20,
+      5,
+      8
+    ],
+    "peak_day": "Sunday",
+    "repeat_probability_pct": 0.5,
+    "peak_season": "Monsoon",
+    "avg_severity": 6.69,
+    "crime_timing_summary": "Highest crime rate at 20:00 hrs on Sundays during Monsoon"
+  },
+  "Tirunelveli": {
+    "district": "Tirunelveli",
+    "total_crimes": 287,
+    "center": {
+      "lat": 8.728522,
+      "lng": 77.757255
+    },
+    "top_crime_types": [
+      {
+        "type": "Cyber Crimes",
+        "count": 49,
+        "percentage": 17.1
+      },
+      {
+        "type": "Crimes Against Property",
+        "count": 47,
+        "percentage": 16.4
+      },
+      {
+        "type": "Crimes Against Body",
+        "count": 46,
+        "percentage": 16.0
+      },
+      {
+        "type": "Crimes Against Women",
+        "count": 40,
+        "percentage": 13.9
+      },
+      {
+        "type": "NDPS / Drug Offences",
+        "count": 31,
+        "percentage": 10.8
+      }
+    ],
+    "peak_crime_hour": 7,
+    "top_3_peak_hours": [
+      7,
+      21,
+      8
+    ],
+    "peak_day": "Thursday",
+    "repeat_probability_pct": 1.3,
+    "peak_season": "Monsoon",
+    "avg_severity": 6.74,
+    "crime_timing_summary": "Highest crime rate at 7:00 hrs on Thursdays during Monsoon"
+  },
+  "Tirupattur": {
+    "district": "Tirupattur",
+    "total_crimes": 918,
+    "center": {
+      "lat": 12.489184,
+      "lng": 78.579513
+    },
+    "top_crime_types": [
+      {
+        "type": "Crimes Against Property",
+        "count": 211,
+        "percentage": 23.0
+      },
+      {
+        "type": "Cyber Crimes",
+        "count": 143,
+        "percentage": 15.6
+      },
+      {
+        "type": "Crimes Against Body",
+        "count": 128,
+        "percentage": 13.9
+      },
+      {
+        "type": "Crimes Against Women",
+        "count": 111,
+        "percentage": 12.1
+      },
+      {
+        "type": "NDPS / Drug Offences",
+        "count": 108,
+        "percentage": 11.8
+      }
+    ],
+    "peak_crime_hour": 8,
+    "top_3_peak_hours": [
+      8,
+      16,
+      11
+    ],
+    "peak_day": "Saturday",
+    "repeat_probability_pct": 4.2,
+    "peak_season": "Monsoon",
+    "avg_severity": 6.58,
+    "crime_timing_summary": "Highest crime rate at 8:00 hrs on Saturdays during Monsoon"
+  },
+  "Tiruppur": {
+    "district": "Tiruppur",
+    "total_crimes": 65,
+    "center": {
+      "lat": 11.099012,
+      "lng": 77.319552
+    },
+    "top_crime_types": [
+      {
+        "type": "Crimes Against Body",
+        "count": 16,
+        "percentage": 24.6
+      },
+      {
+        "type": "Cyber Crimes",
+        "count": 11,
+        "percentage": 16.9
+      },
+      {
+        "type": "Crimes Against Women",
+        "count": 9,
+        "percentage": 13.8
+      },
+      {
+        "type": "Arms Act Violations",
+        "count": 7,
+        "percentage": 10.8
+      },
+      {
+        "type": "Crimes Against Property",
+        "count": 7,
+        "percentage": 10.8
+      }
+    ],
+    "peak_crime_hour": 3,
+    "top_3_peak_hours": [
+      3,
+      2,
+      4
+    ],
+    "peak_day": "Thursday",
+    "repeat_probability_pct": 0.3,
+    "peak_season": "Monsoon",
+    "avg_severity": 6.95,
+    "crime_timing_summary": "Highest crime rate at 3:00 hrs on Thursdays during Monsoon"
+  },
+  "Tiruvallur": {
+    "district": "Tiruvallur",
+    "total_crimes": 390,
+    "center": {
+      "lat": 13.115431,
+      "lng": 79.913035
+    },
+    "top_crime_types": [
+      {
+        "type": "Crimes Against Property",
+        "count": 84,
+        "percentage": 21.5
+      },
+      {
+        "type": "Crimes Against Body",
+        "count": 63,
+        "percentage": 16.2
+      },
+      {
+        "type": "Cyber Crimes",
+        "count": 60,
+        "percentage": 15.4
+      },
+      {
+        "type": "Crimes Against Women",
+        "count": 46,
+        "percentage": 11.8
+      },
+      {
+        "type": "NDPS / Drug Offences",
+        "count": 39,
+        "percentage": 10.0
+      }
+    ],
+    "peak_crime_hour": 8,
+    "top_3_peak_hours": [
+      8,
+      9,
+      0
+    ],
+    "peak_day": "Friday",
+    "repeat_probability_pct": 1.8,
+    "peak_season": "Monsoon",
+    "avg_severity": 6.66,
+    "crime_timing_summary": "Highest crime rate at 8:00 hrs on Fridays during Monsoon"
+  },
+  "Tiruvannamalai": {
+    "district": "Tiruvannamalai",
+    "total_crimes": 480,
+    "center": {
+      "lat": 12.232785,
+      "lng": 79.078291
+    },
+    "top_crime_types": [
+      {
+        "type": "Crimes Against Property",
+        "count": 107,
+        "percentage": 22.3
+      },
+      {
+        "type": "Cyber Crimes",
+        "count": 94,
+        "percentage": 19.6
+      },
+      {
+        "type": "Crimes Against Body",
+        "count": 72,
+        "percentage": 15.0
+      },
+      {
+        "type": "NDPS / Drug Offences",
+        "count": 54,
+        "percentage": 11.2
+      },
+      {
+        "type": "Crimes Against Women",
+        "count": 43,
+        "percentage": 9.0
+      }
+    ],
+    "peak_crime_hour": 19,
+    "top_3_peak_hours": [
+      19,
+      4,
+      6
+    ],
+    "peak_day": "Monday",
+    "repeat_probability_pct": 2.2,
+    "peak_season": "Monsoon",
+    "avg_severity": 6.47,
+    "crime_timing_summary": "Highest crime rate at 19:00 hrs on Mondays during Monsoon"
+  },
+  "Vellore": {
+    "district": "Vellore",
+    "total_crimes": 1096,
+    "center": {
+      "lat": 12.912219,
+      "lng": 79.129559
+    },
+    "top_crime_types": [
+      {
+        "type": "Crimes Against Property",
+        "count": 261,
+        "percentage": 23.8
+      },
+      {
+        "type": "Cyber Crimes",
+        "count": 189,
+        "percentage": 17.2
+      },
+      {
+        "type": "Crimes Against Body",
+        "count": 155,
+        "percentage": 14.1
+      },
+      {
+        "type": "Crimes Against Women",
+        "count": 136,
+        "percentage": 12.4
+      },
+      {
+        "type": "Motor Vehicle Offences",
+        "count": 99,
+        "percentage": 9.0
+      }
+    ],
+    "peak_crime_hour": 10,
+    "top_3_peak_hours": [
+      10,
+      12,
+      14
+    ],
+    "peak_day": "Thursday",
+    "repeat_probability_pct": 5.0,
+    "peak_season": "Monsoon",
+    "avg_severity": 6.56,
+    "crime_timing_summary": "Highest crime rate at 10:00 hrs on Thursdays during Monsoon"
+  },
+  "Villupuram": {
+    "district": "Villupuram",
+    "total_crimes": 1157,
+    "center": {
+      "lat": 11.94078,
+      "lng": 79.490944
+    },
+    "top_crime_types": [
+      {
+        "type": "Crimes Against Property",
+        "count": 261,
+        "percentage": 22.6
+      },
+      {
+        "type": "Cyber Crimes",
+        "count": 185,
+        "percentage": 16.0
+      },
+      {
+        "type": "Crimes Against Body",
+        "count": 162,
+        "percentage": 14.0
+      },
+      {
+        "type": "Crimes Against Women",
+        "count": 149,
+        "percentage": 12.9
+      },
+      {
+        "type": "NDPS / Drug Offences",
+        "count": 112,
+        "percentage": 9.7
+      }
+    ],
+    "peak_crime_hour": 23,
+    "top_3_peak_hours": [
+      23,
+      3,
+      4
+    ],
+    "peak_day": "Saturday",
+    "repeat_probability_pct": 5.3,
+    "peak_season": "Monsoon",
+    "avg_severity": 6.61,
+    "crime_timing_summary": "Highest crime rate at 23:00 hrs on Saturdays during Monsoon"
+  },
+  "Virudhunagar": {
+    "district": "Virudhunagar",
+    "total_crimes": 989,
+    "center": {
+      "lat": 9.582794,
+      "lng": 77.956425
+    },
+    "top_crime_types": [
+      {
+        "type": "Crimes Against Property",
+        "count": 197,
+        "percentage": 19.9
+      },
+      {
+        "type": "Cyber Crimes",
+        "count": 165,
+        "percentage": 16.7
+      },
+      {
+        "type": "Crimes Against Body",
+        "count": 150,
+        "percentage": 15.2
+      },
+      {
+        "type": "Crimes Against Women",
+        "count": 145,
+        "percentage": 14.7
+      },
+      {
+        "type": "NDPS / Drug Offences",
+        "count": 116,
+        "percentage": 11.7
+      }
+    ],
+    "peak_crime_hour": 4,
+    "top_3_peak_hours": [
+      4,
+      21,
+      12
+    ],
+    "peak_day": "Wednesday",
+    "repeat_probability_pct": 4.5,
+    "peak_season": "Monsoon",
+    "avg_severity": 6.68,
+    "crime_timing_summary": "Highest crime rate at 4:00 hrs on Wednesdays during Monsoon"
+  }
+}
