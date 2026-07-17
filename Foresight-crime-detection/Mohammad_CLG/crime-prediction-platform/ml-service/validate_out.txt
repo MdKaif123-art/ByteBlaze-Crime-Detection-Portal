@@ -1,5 +1,0 @@
-SUCCESS: Loaded 100 rows, processed to 75 rows
-Columns: 49
-Districts: 34
-Crime types: 10
-Severity range: 4 - 9
